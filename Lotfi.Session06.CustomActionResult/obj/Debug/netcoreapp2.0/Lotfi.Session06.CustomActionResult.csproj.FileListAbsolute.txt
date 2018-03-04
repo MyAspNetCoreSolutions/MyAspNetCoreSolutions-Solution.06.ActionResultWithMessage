@@ -1,0 +1,33 @@
+C:\Users\nademi\Documents\Visual Studio 2017\Projects\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.deps.json
+C:\Users\nademi\Documents\Visual Studio 2017\Projects\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.runtimeconfig.json
+C:\Users\nademi\Documents\Visual Studio 2017\Projects\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.runtimeconfig.dev.json
+C:\Users\nademi\Documents\Visual Studio 2017\Projects\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.dll
+C:\Users\nademi\Documents\Visual Studio 2017\Projects\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.csproj.CoreCompileInputs.cache
+C:\Users\nademi\Documents\Visual Studio 2017\Projects\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.AssemblyInfoInputs.cache
+C:\Users\nademi\Documents\Visual Studio 2017\Projects\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.AssemblyInfo.cs
+C:\Users\nademi\Documents\Visual Studio 2017\Projects\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.pdb
+C:\Users\nademi\Documents\Visual Studio 2017\Projects\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.dll
+C:\Users\nademi\Documents\Visual Studio 2017\Projects\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.pdb
+C:\Users\nademi\Documents\Visual Studio 2017\Projects\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.csprojResolveAssemblyReference.cache
+D:\Lotfi-Project\Git\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.deps.json
+D:\Lotfi-Project\Git\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.runtimeconfig.json
+D:\Lotfi-Project\Git\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.runtimeconfig.dev.json
+D:\Lotfi-Project\Git\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.dll
+D:\Lotfi-Project\Git\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.pdb
+D:\Lotfi-Project\Git\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.csprojResolveAssemblyReference.cache
+D:\Lotfi-Project\Git\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.csproj.CoreCompileInputs.cache
+D:\Lotfi-Project\Git\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.AssemblyInfoInputs.cache
+D:\Lotfi-Project\Git\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.AssemblyInfo.cs
+D:\Lotfi-Project\Git\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.dll
+D:\Lotfi-Project\Git\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.pdb
+D:\Lotfi-Project\Git\Solution.06.DecorateIActionResult\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.deps.json
+D:\Lotfi-Project\Git\Solution.06.DecorateIActionResult\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.runtimeconfig.json
+D:\Lotfi-Project\Git\Solution.06.DecorateIActionResult\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.runtimeconfig.dev.json
+D:\Lotfi-Project\Git\Solution.06.DecorateIActionResult\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.dll
+D:\Lotfi-Project\Git\Solution.06.DecorateIActionResult\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\bin\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.pdb
+D:\Lotfi-Project\Git\Solution.06.DecorateIActionResult\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.csprojResolveAssemblyReference.cache
+D:\Lotfi-Project\Git\Solution.06.DecorateIActionResult\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.csproj.CoreCompileInputs.cache
+D:\Lotfi-Project\Git\Solution.06.DecorateIActionResult\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.AssemblyInfoInputs.cache
+D:\Lotfi-Project\Git\Solution.06.DecorateIActionResult\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.AssemblyInfo.cs
+D:\Lotfi-Project\Git\Solution.06.DecorateIActionResult\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.dll
+D:\Lotfi-Project\Git\Solution.06.DecorateIActionResult\Lotfi.Session06.CustomActionResult\Lotfi.Session06.CustomActionResult\obj\Debug\netcoreapp2.0\Lotfi.Session06.CustomActionResult.pdb
